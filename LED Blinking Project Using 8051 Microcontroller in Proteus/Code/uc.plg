@@ -1,0 +1,15 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+C:\Users\Saeed\Desktop\8051 LED Blinking Code\Code\uc.uvproj
+Project File Date:  10/17/2012
+
+<h2>Output:</h2>
+Build target 'Target 1'
+compiling code.c...
+linking...
+Program Size: data=9.0 xdata=0 code=72
+creating hex file from "uc"...
+"uc" - 0 Error(s), 0 Warning(s).
