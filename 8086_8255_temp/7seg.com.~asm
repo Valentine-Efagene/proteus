@@ -1,0 +1,27 @@
+org 100h
+
+mov ax, 00
+mov bx, 00
+mov cx, 00
+mov dx, 00
+
+mov dx, 06h
+mov al, 80h
+out dx, al
+
+mov dx, 00h
+mov al, 39h
+out dx, al
+
+mov dx, 02h
+mov al, 73h
+out dx, al
+
+mov dx, 04h
+mov al, 79h
+out dx, al
+hlt
+
+
+
+; [SOURCE]: C:\emu8086\MySource\8255_temp_project.asm

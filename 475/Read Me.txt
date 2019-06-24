@@ -1,0 +1,2 @@
+8086 Executable: (.com)
+LCP2138 Executable: (.elf)
